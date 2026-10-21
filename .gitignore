@@ -150,6 +150,7 @@ activemq-data/
 *.sage.py
 
 # Environments
+.pacman
 .env
 .envrc
 .venv
@@ -218,3 +219,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MacOS
+.DS_Store
